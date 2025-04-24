@@ -42,6 +42,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yadavpratibha&show_icons=true&locale=en" alt="yadavpratibha" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yadavpratibha&" alt="yadavpratibha" /></p>
 
 ###
