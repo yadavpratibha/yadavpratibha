@@ -44,5 +44,4 @@
 </div>
 
 ###
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yadavpratibha&repo=Music-Player)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yadavpratibha&layout=compact)
