@@ -24,7 +24,7 @@
 
 ###
 
-<p align="left">I'm Pratibha from Ghaziabad.<br><br>- 🔭 I’m Computer Science student<br>- 📚 I'm currently learning JavaScript, Python<br>- 👯 I’m looking to collaborate on **Frontend Projects**</p>
+<p align="left">I'm Pratibha from Ghaziabad.<br><br>- 🔧 Self-driven and passionate coder with a love for solving problems and writing efficient code.<br>- 📚 I'm currently learning JavaScript, Python<br>- 👯 I’m looking to collaborate on **Frontend Projects**</p>
 
 ###
 
